@@ -45,11 +45,7 @@ Note that both the old and the new system use strings to represent
 letters, even in languages that have a separate data type for
 characters. 
 
-### Submitting Exercises
 
-Note that, when trying to submit an exercise, make sure you're exercise file you're submitting is in the `exercism/csharp/<exerciseName>` directory.
-
-For example, if you're submitting `bob.cs` for the Bob exercise, the submit command would be something like `exercism submit <path_to_exercism_dir>/csharp/bob/bob.cs`.
 ## Source
 
 The Jumpstart Lab team [view source](http://jumpstartlab.com)
